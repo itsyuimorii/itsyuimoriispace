@@ -1,14 +1,14 @@
 +++
-title = "Second"
+title = "Time's Tapestry"
 date = "2023-06-29T14:21:03-05:00"
-author = ""
+author = "Yui"
 authorTwitter = "" #do not include @
-cover = "./static/img/1.png"
-tags = ["", ""]
+cover = "./static/img/2023.png"
+tags = ["life", "momery"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
