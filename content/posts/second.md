@@ -1,15 +1,17 @@
 +++
-title = "Blog"
-date = "2023-01-23"
-author = "Author:Yui"
- 
-
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
-
-
+title = "Second"
+date = "2023-06-29T14:21:03-05:00"
+author = ""
+authorTwitter = "" #do not include @
+cover = "./static/img/1.png"
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
 +++
-
-# Hi there
 
 
 
