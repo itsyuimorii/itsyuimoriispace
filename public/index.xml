@@ -2,47 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>itsyuimorii</title>
-    <link>http://itsyuimorii.com/</link>
+    <link>https://itsyuimorii.com/</link>
     <description>Recent content on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2023 11:02:46 -0500</lastBuildDate><atom:link href="http://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Third Post</title>
-      <link>http://itsyuimorii.com/posts/my-third-post/</link>
-      <pubDate>Thu, 29 Jun 2023 11:02:46 -0500</pubDate>
-      
-      <guid>http://itsyuimorii.com/posts/my-third-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>My Post</title>
-      <link>http://itsyuimorii.com/posts/my-post/</link>
-      <pubDate>Thu, 29 Jun 2023 10:58:55 -0500</pubDate>
-      
-      <guid>http://itsyuimorii.com/posts/my-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://itsyuimorii.com/posts/my-first-post/</link>
-      <pubDate>Thu, 29 Jun 2023 10:00:09 -0500</pubDate>
-      
-      <guid>http://itsyuimorii.com/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://itsyuimorii.com/posts/hello/</link>
+      <link>https://itsyuimorii.com/posts/hello/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://itsyuimorii.com/posts/hello/</guid>
+      <guid>https://itsyuimorii.com/posts/hello/</guid>
       <description>Hi there Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
@@ -61,16 +31,16 @@
     
     <item>
       <title>playground</title>
-      <link>http://itsyuimorii.com/about/</link>
+      <link>https://itsyuimorii.com/about/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://itsyuimorii.com/about/</guid>
+      <guid>https://itsyuimorii.com/about/</guid>
       <description>Hello Friend Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h1 id=&#34;hello-friend&#34;&gt;Hello Friend&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
 
-&lt;img src=&#34;http://itsyuimorii.com/img/me.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
+&lt;img src=&#34;https://itsyuimorii.com/img/me.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
 
 
 &lt;blockquote&gt;
@@ -88,10 +58,10 @@
     
     <item>
       <title>playground</title>
-      <link>http://itsyuimorii.com/playground/</link>
+      <link>https://itsyuimorii.com/playground/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://itsyuimorii.com/playground/</guid>
+      <guid>https://itsyuimorii.com/playground/</guid>
       <description>Painting Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h2 id=&#34;painting&#34;&gt;Painting&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
