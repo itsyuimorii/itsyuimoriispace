@@ -1,4 +1,4 @@
-baseurl = "http://itsyuimorii.com/"
+baseurl = "https://itsyuimorii.github.io/itsyuimoriispace/"
 languageCode = "en-us"
 theme = "terminal"
 themeDir = "/"
