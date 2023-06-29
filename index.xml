@@ -6,37 +6,7 @@
     <description>Recent content on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 11:02:46 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Third Post</title>
-      <link>https://itsyuimorii.com/posts/my-third-post/</link>
-      <pubDate>Thu, 29 Jun 2023 11:02:46 -0500</pubDate>
-      
-      <guid>https://itsyuimorii.com/posts/my-third-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>My Post</title>
-      <link>https://itsyuimorii.com/posts/my-post/</link>
-      <pubDate>Thu, 29 Jun 2023 10:58:55 -0500</pubDate>
-      
-      <guid>https://itsyuimorii.com/posts/my-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://itsyuimorii.com/posts/my-first-post/</link>
-      <pubDate>Thu, 29 Jun 2023 10:00:09 -0500</pubDate>
-      
-      <guid>https://itsyuimorii.com/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://itsyuimorii.com/posts/hello/</link>
