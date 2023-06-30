@@ -1,27 +1,16 @@
 +++
-title = "Time's Tapestry"
+title = "Time's Tapestry - A Journey of Resilience and Renewal"
 date = "2023-06-29T14:21:03-05:00"
-author = "Yui"
+author = "Schrodinger`s grandma"
 authorTwitter = "" #do not include @
 cover = "./static/img/2023.png"
 tags = ["life", "momery"]
 keywords = ["", ""]
-description = ""
+description = "自分探しの旅に出る： 真正性と内なる平和を受け入れる"
 showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
-
-Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.
-
-- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.
-- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.
-- Aenean facilisis ut ipsum condimentum ultrices.
-- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
+I embrace the journey of being shattered and rebuilt. I welcome the opportunity for growth, self-reflection, and reinvention. With each step forward, I become more resilient, more self-aware, and more attuned to the beauty of life's constant ebb and flow.

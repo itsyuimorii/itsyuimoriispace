@@ -6,9 +6,13 @@ authorTwitter = "" #do not include @
 cover = "./static/img/peace.png"
 tags = ["life", "love"]
  
-description = " "
+description = "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." 
+-Samuel Beckett"
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+
+
