@@ -13,4 +13,4 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-I embrace the journey of being shattered and rebuilt. I welcome the opportunity for growth, self-reflection, and reinvention. With each step forward, I become more resilient, more self-aware, and more attuned to the beauty of life's constant ebb and flow.
+ 
