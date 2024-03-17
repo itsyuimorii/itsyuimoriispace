@@ -6,7 +6,17 @@
     <description>Recent content in playground on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Mar 2024 23:16:51 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 12:20:55 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://itsyuimorii.com/posts/my-second-post/</link>
+      <pubDate>Sun, 17 Mar 2024 12:20:55 -0500</pubDate>
+      
+      <guid>https://itsyuimorii.com/posts/my-second-post/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://itsyuimorii.com/posts/my-first-post/</link>
@@ -18,14 +28,23 @@
     </item>
     
     <item>
-      <title>About me？</title>
-      <link>https://itsyuimorii.com/about/</link>
+      <title>playground</title>
+      <link>https://itsyuimorii.com/playground/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsyuimorii.com/playground/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://itsyuimorii.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itsyuimorii.com/about/</guid>
       <description>Hello World 自己介紹が苦手である私ですが、よろしくお願いします。
-Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.
-Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.</description>
+Every winter`s period is filled with spring warmth and blooming flowers.</description>
       <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;自己介紹が苦手である私ですが、よろしくお願いします。&lt;/p&gt;
@@ -34,24 +53,8 @@ Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, f
 &lt;img src=&#34;https://itsyuimorii.com/img/me.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
 
 
-&lt;p&gt;Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li&gt;
-&lt;li&gt;Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li&gt;
-&lt;li&gt;Aenean facilisis ut ipsum condimentum ultrices.&lt;/li&gt;
-&lt;li&gt;Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Every winter`s period is filled with spring warmth and blooming flowers.&lt;/p&gt;
 </content>
-    </item>
-    
-    <item>
-      <title>playground</title>
-      <link>https://itsyuimorii.com/playground/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://itsyuimorii.com/playground/</guid>
-      <description></description>
-      <content></content>
     </item>
     
   </channel>

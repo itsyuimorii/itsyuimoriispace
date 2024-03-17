@@ -2,20 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://itsyuimorii.com/posts/my-second-post/</loc>
+    <lastmod>2024-03-17T12:20:55-05:00</lastmod>
+  </url><url>
+    <loc>https://itsyuimorii.com/</loc>
+    <lastmod>2024-03-17T12:20:55-05:00</lastmod>
+  </url><url>
+    <loc>https://itsyuimorii.com/posts/</loc>
+    <lastmod>2024-03-17T12:20:55-05:00</lastmod>
+  </url><url>
     <loc>https://itsyuimorii.com/posts/my-first-post/</loc>
     <lastmod>2024-03-16T23:16:51-05:00</lastmod>
   </url><url>
-    <loc>https://itsyuimorii.com/</loc>
-    <lastmod>2024-03-16T23:16:51-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/posts/</loc>
-    <lastmod>2024-03-16T23:16:51-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/about/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://itsyuimorii.com/playground/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsyuimorii.com/about/</loc>
   </url><url>
     <loc>https://itsyuimorii.com/categories/</loc>
   </url><url>
