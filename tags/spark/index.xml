@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>playground on itsyuimorii</title>
-    <link>https://itsyuimorii.com/</link>
-    <description>Recent content in playground on itsyuimorii</description>
+    <title>spark on itsyuimorii</title>
+    <link>https://itsyuimorii.com/tags/spark/</link>
+    <description>Recent content in spark on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2020 12:20:55 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2020 12:20:55 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/tags/spark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The wind flows freely, may you do the same.</title>
       <link>https://itsyuimorii.com/posts/my-second-post/</link>
@@ -37,48 +37,6 @@ Perhaps, I am but a silent stream, flowing gently and steadily&amp;hellip;&lt;/p
 &lt;em&gt;&amp;ldquo;I, I have no virtues. I have accepted myself. From then on, everything became simple.&amp;rdquo;&lt;/em&gt;
 Thankfully, even though I struggle to be loud, I connect with this world through the strokes of my brush and the notes of my music.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://itsyuimorii.com/static/img/5B453925-DB3B-4622-BDB2-721A3AABCEF4.JPG&#34; alt=&#34;Hello Friend&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://itsyuimorii.com/posts/my-first-post/</link>
-      <pubDate>Fri, 10 Jan 2020 23:16:51 -0500</pubDate>
-      
-      <guid>https://itsyuimorii.com/posts/my-first-post/</guid>
-      <description>Hello World </description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>playground</title>
-      <link>https://itsyuimorii.com/playground/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://itsyuimorii.com/playground/</guid>
-      <description></description>
-      <content>&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://itsyuimorii.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://itsyuimorii.com/about/</guid>
-      <description>Hello World 元気でいますか? 大事な人はできましたか? いつか夢は叶いますか?</description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;元気でいますか?
-大事な人はできましたか?
-いつか夢は叶いますか?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;img src=&#34;https://itsyuimorii.com/img/me.jpg&#34;  alt=&#34;Hello Friend&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;    /&gt;
-
-
 </content>
     </item>
     
