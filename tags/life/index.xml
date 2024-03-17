@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on itsyuimorii</title>
-    <link>https://itsyuimorii.com/tags/life/</link>
-    <description>Recent content in life on itsyuimorii</description>
+    <title>Life on itsyuimorii</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 20:47:23 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jul 2023 20:47:23 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>｢明日への手紙（ドラマバージョン）｣</title>
-      <link>https://itsyuimorii.com/posts/forth/</link>
+      <link>http://localhost:1313/posts/forth/</link>
       <pubDate>Sat, 01 Jul 2023 20:47:23 -0500</pubDate>
       
-      <guid>https://itsyuimorii.com/posts/forth/</guid>
+      <guid>http://localhost:1313/posts/forth/</guid>
       <description>Aoi Teshima MV song This song makes me feel like you&amp;rsquo;re still here, waiting for me to come back home. I miss you. I&amp;rsquo;m sorry for being trapped on the other side of the world for so long. Even when I close my eyes, I can still feel that slight warmth. I miss you. Let me close my eyes and enter the realm of dreams, to meet you. 形ないものの輝きを、そっと、そっと抱きしめて、進むの。</description>
       <content>&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ytQ3Hs3WjQ4&amp;amp;ab_channel=%E6%89%8B%E5%B6%8C%E8%91%B5&#34;&gt;Aoi Teshima MV song&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ytQ3Hs3WjQ4&amp;ab_channel=%E6%89%8B%E5%B6%8C%E8%91%B5&#34;&gt;Aoi Teshima MV song&lt;/a&gt;
 This song makes me feel like you&amp;rsquo;re still here, waiting for me to come back home. I miss you. I&amp;rsquo;m sorry for being trapped on the other side of the world for so long. Even when I close my eyes, I can still feel that slight warmth. I miss you. Let me close my eyes and enter the realm of dreams, to meet you. 形ないものの輝きを、そっと、そっと抱きしめて、進むの。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;元気でいますか？
@@ -54,10 +54,10 @@ This song makes me feel like you&amp;rsquo;re still here, waiting for me to come
     
     <item>
       <title>Sekai no Yakusoku</title>
-      <link>https://itsyuimorii.com/posts/third/</link>
+      <link>http://localhost:1313/posts/third/</link>
       <pubDate>Thu, 29 Jun 2023 14:26:39 -0500</pubDate>
       
-      <guid>https://itsyuimorii.com/posts/third/</guid>
+      <guid>http://localhost:1313/posts/third/</guid>
       <description>涙の奥にゆらぐほほえみは 時の始めからの世界の約束
 いまは一人でも二人の昨日から 今日は生まれきらめく 初めて会った日のように
 思い出のうちにあなたはいない そよかぜとなって頬に触れてくる
@@ -84,23 +84,23 @@ This song makes me feel like you&amp;rsquo;re still here, waiting for me to come
     
     <item>
       <title>Time&#39;s Tapestry - A Journey of Resilience and Renewal</title>
-      <link>https://itsyuimorii.com/posts/second/</link>
+      <link>http://localhost:1313/posts/second/</link>
       <pubDate>Thu, 29 Jun 2023 14:21:03 -0500</pubDate>
       
-      <guid>https://itsyuimorii.com/posts/second/</guid>
+      <guid>http://localhost:1313/posts/second/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>When Marnie Was There 思い出のマーニー(2014)</title>
-      <link>https://itsyuimorii.com/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Wed, 29 Jun 2022 14:21:03 -0500</pubDate>
       
-      <guid>https://itsyuimorii.com/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>When Marnie was There When Marnie was There is a movie from Studio Ghibli, directed by Hiromasa Yonebayashi, based on the novel of the same name by Joan G. Robinson. 🎬 It was released in Japan on July 19, 2014. It is the last film produced by Studio Ghibli before its temporary closure in 2014. It`s a movie being underrated and lesser-known from Studio Ghibli.
 When I saw Marnie start waving to Anna Sasaki(あんな), I could no longer stop my tears.</description>
-      <content>&lt;h2 id=&#34;when-marnie-was-there&#34;&gt;&lt;a href=&#34;&#34;&gt;When Marnie was There&lt;/a&gt;&lt;/h2&gt;
+      <content>&lt;h2 id=&#34;when-marnie-was-there&#34;&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;When Marnie was There&lt;/a&gt;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;When Marnie was There is a movie from Studio Ghibli, directed by Hiromasa Yonebayashi, based on the novel of the same name by Joan G. Robinson. 🎬 It was released in Japan on July 19, 2014. It is the last film produced by Studio Ghibli before its temporary closure in 2014. It`s a movie being underrated and lesser-known from Studio Ghibli.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -110,9 +110,9 @@ When I saw Marnie start waving to Anna Sasaki(あんな), I could no longer stop
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; &amp;#34;The person who loves you may leave one day, but his/her love will always be there.&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;soundtrack&#34;&gt;Soundtrack&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wbuOD2ijXL0&amp;amp;ab_channel=mintleaf1993&#34;&gt;I am not alone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kbK3Uwf-cOw&amp;amp;ab_channel=kwazimouto&#34;&gt;Find on the Outside&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mpivDxXr0IM&amp;amp;ab_channel=Blueberry&#34;&gt;Deep inside my heart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wbuOD2ijXL0&amp;ab_channel=mintleaf1993&#34;&gt;I am not alone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=kbK3Uwf-cOw&amp;ab_channel=kwazimouto&#34;&gt;Find on the Outside&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mpivDxXr0IM&amp;ab_channel=Blueberry&#34;&gt;Deep inside my heart&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>

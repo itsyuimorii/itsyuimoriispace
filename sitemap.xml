@@ -2,38 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://itsyuimorii.com/posts/forth/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/tags/life/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/tags/memory/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
+    <loc>https://itsyuimorii.com/posts/my-first-post/</loc>
+    <lastmod>2024-03-16T23:16:51-05:00</lastmod>
   </url><url>
     <loc>https://itsyuimorii.com/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
+    <lastmod>2024-03-16T23:16:51-05:00</lastmod>
   </url><url>
     <loc>https://itsyuimorii.com/posts/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/tags/</loc>
-    <lastmod>2023-07-01T20:47:23-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/tags/love/</loc>
-    <lastmod>2023-06-29T14:26:39-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/posts/third/</loc>
-    <lastmod>2023-06-29T14:26:39-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/tags/momery/</loc>
-    <lastmod>2023-06-29T14:21:03-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/posts/second/</loc>
-    <lastmod>2023-06-29T14:21:03-05:00</lastmod>
-  </url><url>
-    <loc>https://itsyuimorii.com/posts/first/</loc>
-    <lastmod>2022-06-29T14:21:03-05:00</lastmod>
+    <lastmod>2024-03-16T23:16:51-05:00</lastmod>
   </url><url>
     <loc>https://itsyuimorii.com/about/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
@@ -42,5 +18,7 @@
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://itsyuimorii.com/categories/</loc>
+  </url><url>
+    <loc>https://itsyuimorii.com/tags/</loc>
   </url>
 </urlset>

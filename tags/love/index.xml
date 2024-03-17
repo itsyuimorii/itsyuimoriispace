@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>love on itsyuimorii</title>
-    <link>https://itsyuimorii.com/tags/love/</link>
-    <description>Recent content in love on itsyuimorii</description>
+    <title>Love on itsyuimorii</title>
+    <link>http://localhost:1313/tags/love/</link>
+    <description>Recent content in Love on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 14:26:39 -0500</lastBuildDate><atom:link href="https://itsyuimorii.com/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 14:26:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/love/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sekai no Yakusoku</title>
-      <link>https://itsyuimorii.com/posts/third/</link>
+      <link>http://localhost:1313/posts/third/</link>
       <pubDate>Thu, 29 Jun 2023 14:26:39 -0500</pubDate>
       
-      <guid>https://itsyuimorii.com/posts/third/</guid>
+      <guid>http://localhost:1313/posts/third/</guid>
       <description>涙の奥にゆらぐほほえみは 時の始めからの世界の約束
 いまは一人でも二人の昨日から 今日は生まれきらめく 初めて会った日のように
 思い出のうちにあなたはいない そよかぜとなって頬に触れてくる
