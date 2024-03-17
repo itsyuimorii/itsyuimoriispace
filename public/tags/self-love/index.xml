@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on itsyuimorii</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on itsyuimorii</description>
+    <title>Self-Love on itsyuimorii</title>
+    <link>http://localhost:1313/tags/self-love/</link>
+    <description>Recent content in Self-Love on itsyuimorii</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Feb 2020 12:20:55 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2020 12:20:55 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/self-love/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The wind flows freely, may you do the same.</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
@@ -14,13 +14,9 @@
       
       <guid>http://localhost:1313/posts/my-second-post/</guid>
       <description>Months turned into a year. But just as her collection grew, so did her lonliness. A pain as large as her heart lived in her chest. Nothing eased it. Not the Gulls, not a splendid sunset, not the rarest of shells. - Where the crawdads sing by Delia Owens
-For a long time, I&amp;rsquo;ve felt like a stagnant pool, devoid of ripples, What am I steadfastly holding onto, what am I so fervently clinging to, even I myself do not understand.</description>
+For a long time, I&amp;rsquo;ve felt like a stagnant pool, devoid of ripples, struggling to connect with my inner self. Instead, I&amp;rsquo;ve magnified feelings of anxiety and helplessness.</description>
       <content>&lt;p&gt;Months turned into a year. But just as her collection grew, so did her lonliness. A pain as large as her heart lived in her chest. Nothing eased it. Not the Gulls, not a splendid sunset, not the rarest of shells.  &lt;em&gt;- Where the crawdads sing by Delia Owens&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;For a long time, I&amp;rsquo;ve felt like a stagnant pool, devoid of ripples, What am I steadfastly holding onto, what am I so fervently clinging to, even I myself do not understand.&lt;/p&gt;
-&lt;p&gt;I may appear gentle and reserved, silent as a calm, still pool.&lt;/p&gt;
-&lt;p&gt;But I am more than that—only I comprehend.&lt;/p&gt;
-&lt;p&gt;Only I know the true fervor and madness, the tumultuous waves roiling within! Like many ordinary, mundane individuals, I harbor both naive ideals and worldly desires—I am never content to settle!&lt;/p&gt;
-&lt;p&gt;I struggling to connect with my inner self.  Instead, I&amp;rsquo;ve magnified feelings of anxiety and helplessness. At times, I&amp;rsquo;ve even felt like drifting algae, following wherever the current takes me&amp;hellip;&lt;/p&gt;
+&lt;p&gt;For a long time, I&amp;rsquo;ve felt like a stagnant pool, devoid of ripples, struggling to connect with my inner self. Instead, I&amp;rsquo;ve magnified feelings of anxiety and helplessness. At times, I&amp;rsquo;ve even felt like drifting algae, following wherever the current takes me&amp;hellip;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I have roots, but I flow.&amp;rdquo; - as Woolf said.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -37,17 +33,6 @@ Perhaps, I am but a silent stream, flowing gently and steadily&amp;hellip;&lt;/p
 &lt;em&gt;&amp;ldquo;I, I have no virtues. I have accepted myself. From then on, everything became simple.&amp;rdquo;&lt;/em&gt;
 Thankfully, even though I struggle to be loud, I connect with this world through the strokes of my brush and the notes of my music.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Hello Friend&#34; src=&#34;http://localhost:1313/static/img/5B453925-DB3B-4622-BDB2-721A3AABCEF4.JPG&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 10 Jan 2020 23:16:51 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Hello World </description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
 </content>
     </item>
     
