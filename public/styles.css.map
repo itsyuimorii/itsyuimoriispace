@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/itsyuimoriispace/Documents/GitHub/hugo_site_yuimorii/itsyuimorii",
+	"sourceRoot": "/Users/yui.morii/Documents/github_personal/itsyuimoriispace",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
