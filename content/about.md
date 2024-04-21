@@ -12,5 +12,6 @@ author: "itsyuimorii"
 > いつか夢は叶いますか?
 > 
 [github-itsyuimorii ♥]:(https://github.com/itsyuimorii)
+[github-itsyuimorii ♥]:(https://github.com/itsyuimorii)
 
 {{< image src="/img/me.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
