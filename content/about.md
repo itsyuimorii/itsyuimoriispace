@@ -10,6 +10,7 @@ author: "itsyuimorii"
 > 元気でいますか?
 > 大事な人はできましたか?
 > いつか夢は叶いますか?
- 
+> 
+[github-itsyuimorii ♥]:(https://github.com/itsyuimorii)
 
 {{< image src="/img/me.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
